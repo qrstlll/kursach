@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+d01c5844a0f5c0edb0f70b4042d181ab CMakeFiles/FootballClubMS_autogen
+7a926d4c1656afd7d721330dacfb1592 FootballClubMS_autogen/timestamp
